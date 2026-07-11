@@ -7,14 +7,6 @@ Backend Developer • Building Secure & Scalable APIs
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=VedanshSingh9899&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/VedanshSingh9899?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/VedanshSingh9899?affiliations=OWNER&style=for-the-badge"/>
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Backend+Developer;Node.js+%7C+PostgreSQL+%7C+Redis;Building+Scalable+REST+APIs;Learning+Docker+%26+Cloud;Always+Optimizing+Performance"/>
 </p>
 
@@ -56,7 +48,7 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,docker,git,github,linux,js,ts,java,cpp,c,python,react,nextjs,html,css,vscode"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,redis,docker,git,github,linux,js,ts,java,cpp,c,python,react,nextjs,html,css,vscode"/>
 
 </p>
 
@@ -93,14 +85,6 @@ A production-oriented backend focused on scalability and maintainability.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedanshSingh9899&layout=compact&theme=tokyonight"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VedanshSingh9899&theme=tokyonight"/>
-
-</p>
-
 ---
 
 # 📊 Contribution Graph
@@ -111,15 +95,6 @@ A production-oriented backend focused on scalability and maintainability.
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VedanshSingh9899&theme=tokyonight&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 

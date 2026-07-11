@@ -36,11 +36,13 @@ public:
 
 - 🚀 Building backend systems with **Node.js**
 - 🗄 Designing relational databases using **PostgreSQL**
-- ⚡ Using **Redis** for caching and OTP workflows
+- ⚡ Using **Redis** for caching and OTP workflows **Magic Link*
 - 🔐 Implementing JWT Authentication & RBAC
 - 📦 Learning Docker and Cloud deployment
 - 📚 I enjoy writing documentation that explains **why** code exists, not just how to use it.
 - 🌱 Currently exploring distributed systems and scalable backend architecture.
+- ✉️ **SMTP** services and working
+
 
 ---
 
@@ -50,7 +52,7 @@ public:
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,redis,docker,git,github,linux,js,ts,java,cpp,c,python,react,nextjs,html,css,vscode"/>
 
-</p>
+</p>  
 
 ---
 
@@ -69,7 +71,8 @@ A production-oriented backend focused on scalability and maintainability.
 - Role Based Access Control
 - Docker Deployment
 - Secure File Upload
-- Email Verification
+- Email Verification,Magic Link
+- SMTP mail system
 - MVC Architecture
 - REST APIs
 - Detailed Documentation
@@ -108,12 +111,9 @@ I enjoy designing backend systems that are reliable, scalable, and easy for futu
 
 # 📖 Currently Learning
 
-- Docker
 - AWS
 - Distributed Systems
 - CI/CD
-- System Design
-- Backend Performance
 
 ---
 
@@ -127,19 +127,8 @@ I enjoy designing backend systems that are reliable, scalable, and easy for futu
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
 </p>
 
----
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
 
 ---
 
